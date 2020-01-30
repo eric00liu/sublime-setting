@@ -85,6 +85,7 @@
         { "command": { "action": "switchToTab", "index": 8 }, "keys": ["alt+9"] },
         { "command": "closePane", "keys": [ "alt+w" ] },
         { "command": "newTab", "keys": ["alt+t"] },
+        { "command": "find", "keys": ["alt+f"] },
         { "command": "copy", "keys": ["alt+c"] },
         { "command": "paste", "keys": ["alt+v"] }
     ]
