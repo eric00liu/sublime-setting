@@ -18,6 +18,9 @@
             "fontSize": 8,
             "background": "#0C0C0C",
             "historySize": 9004,
+            "acrylicOpacity": 0.9,
+            "cursorShape":"filledBox",
+            "useAcrylic": true,
             "hidden": false
         },
         {
